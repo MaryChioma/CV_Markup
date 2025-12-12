@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>My curriculum vitae</title>
+    </head>
+    <body>
+        <header>
+            <div id="first">
+            <h1> Nwankwo Mary</h1>
+        <ul class="contact_details">
+            <li> 20 Marble Estaate, Sangotedo</li>
+            <li> marynwankwo121@gmail.com</li>
+            <li> 08065379401</li>
+        </ul>
+        </div>
+        </header>
+
+        <main>
+      <div class="first_column">
+             <h2>Professional Summary</h2>
+        <p>Result-driven professional with expertise in customer relations, administrative funtion and basic research. I excel in fast-paced environments, delivering measurable results through attention to detail, multitasking, and problem-solving skills</p>
+
+
+            <div>
+            <h2> Education</h2>
+            <p> <b>University of Benin,</b> Benin City - Bsc - Medical Biochemistry (First Class Honors)</p>
+            <small> March 2023</small> 
+        </div>
+        
+
+            <div>
+            <h2> Experience</h2>
+        <p> <b>THE GATHER HOUSE,</b> Lagos (hybrid) - Customer and Brand Support</p>
+        <small> September 2024- Present</small>
+        <ul>
+            <li>Responded to customer inquiries via phone, email and social media, providing timely and accurate solutions to their concerns which improced customer satisfaction ratings by 25% through effective issue resolution and proactive communication.</li>
+            <li>Liaised with brand partners for product stocking through consignment deals ensuring the company had a 70% increase in number of brand partners fostering the business growth.</li>
+            <li>Increased customer retention by 15% through personalized engagements and loyalty programs</li>
+            <li>Successfully onboarded and retainned 90% of key brand partners, resulting in significant revenue growth.</li>
+        </ul>
+        </div>
+      </div>
+
+      <div class="second_column">
+        <h2> Skills</h2>
+        <ul>
+            <li> Good communication </li>
+            <li> Active listening </li>
+            <li> Problem solving through innovative thinking</li>
+            <li> Conflict resolution skills</li>
+        </ul>
+        </div>
+
+        </main> 
+    </body>
+</html>
